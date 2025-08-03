@@ -48,7 +48,7 @@ python server.py
 Edit the folder path in `client.py`:
 
 ```python
-"params": {"folder_path": r"C:\Path\To\Scan"}
+"params": {"folder_path": r"Path\To\Scan"}
 ```
 
 Then run:
