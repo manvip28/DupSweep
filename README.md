@@ -24,7 +24,7 @@ dup-sweep/
 ├── client.py         # Sends JSON-RPC requests to server
 ├── tools.py          # Core logic for duplicate detection and deletion
 ├── ui.py             # Terminal UI for showing duplicates & confirmation
-├── README.md
+├── requirements.txt
 ```
 
 ---
